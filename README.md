@@ -154,7 +154,7 @@ $ sudo apt update
 $ sudo apt install snapd
 ```
 
-[Download the file](https://)
+[Download the file](https://github.com/Bijit-Mondal/iLib-Documentation/releases)
 
 Go to the downloaded directory and open terminal
 
@@ -178,7 +178,7 @@ $ makepkg -si
 $ yay -Sy snapd
 ```
 
-[Download the file](https://)
+[Download the file](https://github.com/Bijit-Mondal/iLib-Documentation/releases)
 Go to the downloaded directory and open terminal
 
 ```
