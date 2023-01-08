@@ -167,6 +167,7 @@ $ ilib
 ```
 
 > Arch Linux
+
 First you need to download snap package manager on the machine
 
 ```
