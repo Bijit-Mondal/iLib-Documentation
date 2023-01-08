@@ -167,7 +167,7 @@ $ ilib
 ```
 
 > Arch Linux
-> First you need to download snap package manager on the machine
+First you need to download snap package manager on the machine
 
 ```
 $ git clone https://aur.archlinux.org/yay
