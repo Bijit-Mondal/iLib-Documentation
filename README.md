@@ -25,7 +25,6 @@ Click on the **Install** button and wait for it to finish
 
 ![](assets/20230108_182420_Screenshot_2023-01-08-17-19-22-94.jpg)
 
-
 #### **Step 4**:
 
 An app as above with name **iLib** will shown on home wallpaper
@@ -44,7 +43,6 @@ If you don't have account on iLib, Press on the **Register for a new account** b
 
 ![](assets/20230108_183505_Screenshot_2023-01-08-17-20-18-91.jpg)
 
-
 #### **Step 7**:
 
 Enter the proper details as reqquired and upload a passport size photo or selfie of your own wearing college uniform. **The photo size must be less than *350* kb**. The details will be check before making you a premium user, so enter it carefully
@@ -56,3 +54,9 @@ Enter the proper details as reqquired and upload a passport size photo or selfie
 Verify You email, you will receieve an confirmation mail
 
 ![](assets/20230108_194616_Screenshot_2023-01-08-17-24-11-49.jpg)
+
+#### **Step 9**:
+
+After clicking the mailed link, your verfifcation status will be updated. Now logout from the application and login again.
+
+![](assets/20230108_202045_Screenshot_2023-01-08-17-25-09-27.jpg)
