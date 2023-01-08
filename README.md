@@ -1,9 +1,9 @@
 # Hi Welcome to the Documentation of i-Lib - Library Management System of RKMVCC
 
 * [For Mobile User (Student)](#for-mobile-user-student)
-* For Mobile User (Admin)
-* For Linux User (Student/Admin)
-* For Windows User (Student/Admin)
+* [For Mobile User (Admin)](#for-mobile-user-admin)
+* [For Linux User (All)](#for-linux-user-all)
+* [For Windows User (All)](#for-windows-user-all)
 
 ### For Mobile User (Student)
 
@@ -60,3 +60,141 @@ Verify You email, you will receieve an confirmation mail
 After clicking the mailed link, your verfifcation status will be updated. Now logout from the application and login again.
 
 ![](assets/20230108_202045_Screenshot_2023-01-08-17-25-09-27.jpg)
+
+#### **Step 10:**
+
+Logout from the application and login once again.
+
+![](assets/20230108_202334_Screenshot_2023-01-08-17-25-21-09.jpg)
+
+#### **Step 11:**
+
+Go to library admin and asks to update your premium status so that you get enable to request for book
+
+![](assets/20230108_202754_IMG_20230108_174107.jpg)
+
+After updating the premium status your information window will look like
+
+![](assets/20230108_203211_IMG_20230108_174140.jpg)
+
+#### **Step 12:**
+
+Search and request for a book in the request window. You can borrow maximum 2 books at a time.The books should be returned between 15 days.
+
+![](assets/20230108_203327_Screenshot_2023-01-08-17-28-51-29.jpg)
+
+#### **Step 13:**
+
+For Returning a Book you must go to library and asks admin to approve your return request.
+
+### For Mobile User (Admin)
+
+#### **Step 1:**
+
+Step 1-10 are same as student user. You can go through it.
+
+#### **Step 2:**
+
+Asks the developer to make yourself admin.
+
+#### **Making student premium:**
+
+Go to students details section
+
+![](assets/20230108_210549_qwerty.jpg)
+
+Click on the **Get details by email** button and enter the student email and search
+
+![](assets/20230108_210823_Screenshot_2023-01-08-17-34-22-68_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+Approve as premium user or delete the user.
+
+![](assets/20230108_210925_Screenshot_2023-01-08-17-34-30-74_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+#### **Approve Pending Request**
+
+Click on the **Load Pending Request** button. and approve or decline students borrow request.
+
+![](assets/20230108_211231_Screenshot_2023-01-08-17-35-50-54_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+#### **Approve Return Request**
+
+Click on the  **Load Return Request** button. and approve return request. **If the user is late to return the book,fine charges button will glow**
+
+![](assets/20230108_211538_Screenshot_2023-01-08-17-36-37-99_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+#### **Add a new book**
+
+Click on the **Add a new book** button from menu and enter the details of the book, make sure each book has ***unique*** ISBN number.
+
+![](assets/20230108_211730_Screenshot_2023-01-08-17-32-34-09_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+#### **The image URL part**
+
+Search for the book front page image online and paste the link on the input area.
+
+![](assets/20230108_211925_Screenshot_2023-01-08-17-33-29-97_e4424258c8b8649f6e67d283a50a2cbc.jpg)
+
+#### **Upload book's pdf**
+
+You can upload books pdf but then make sure the pdf is less than 1 MB in size.
+
+> Enter the details of book properly for no furthur issue. And once again make sure each book has unique ISBN number and don't repeat a book twice.
+
+### For Linux User (All)
+
+#### **Step 1: Download**
+
+> Ubuntu, Debian
+
+First you need to download snap package manager on the machine
+
+```
+$ sudo apt update
+$ sudo apt install snapd
+```
+
+[Download the file](https://)
+
+Go to the downloaded directory and open terminal
+
+```
+$ sudo snap install iLib_0.1.0_amd64.snap --dangerous
+```
+
+```
+$ ilib
+```
+
+> Arch Linux
+> First you need to download snap package manager on the machine
+
+```
+$ git clone https://aur.archlinux.org/yay
+
+$ cd yay
+
+$ makepkg -si
+$ yay -Sy snapd
+```
+
+[Download the file](https://)
+Go to the downloaded directory and open terminal
+
+```
+$ sudo snap install iLib_0.1.0_amd64.snap --dangerous
+```
+
+```
+$ ilib
+```
+
+#### **Step 2:**
+
+Other steps are same as above.
+
+### For Windows User (All)
+
+#### ~~Step 1~~:
+
+Sorry windows user I haven't develope for windows and neither I want to do. If you really want desktop like experience on windows download the Web App
