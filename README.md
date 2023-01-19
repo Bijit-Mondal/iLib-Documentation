@@ -19,14 +19,14 @@
 Click on the three dots on your browser and press **Install app** button on the menu as shown below.
 
 
-![](assets/20230108_181832_Screenshot_2023-01-08-17-19-14-28.jpg)
+![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_181832_Screenshot_2023-01-08-17-19-14-28.jpg)
 
 #### **Step 3**:
 
 Click on the **Install** button and wait for it to finish
 
 
-![](assets/20230108_182420_Screenshot_2023-01-08-17-19-22-94.jpg)
+![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_182420_Screenshot_2023-01-08-17-19-22-94.jpg)
 
 #### **Step 4**:
 
