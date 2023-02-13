@@ -9,7 +9,7 @@
 
 #### **Step 1**:
 
-[Click Here](https://library-test-9432.web.app) Or scan the below image with your mobile device with active internet connection
+[Click Here](https://ilib.website) Or scan the below image with your mobile device with active internet connection
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_180721_QR_Code.png)
