@@ -9,7 +9,7 @@
 
 #### **Step 1**:
 
-[Click Here](https://ilib.website) Or scan the QR code below with your mobile device with an active internet connection
+[Click Here](https://ilib.website) Or scan the QR code below with your mobile device with an active Internet connection.
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_180721_QR_Code.png)
@@ -23,21 +23,21 @@ Click on the three dots on your browser and press **Install app** button on the 
 
 #### **Step 3**:
 
-Click on the **Install** button and wait for the installation process to finish
+Click on the **Install** button and wait for the installation process to finish.
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_182420_Screenshot_2023-01-08-17-19-22-94.jpg)
 
 #### **Step 4**:
 
-An app as above with name **iLib** will shown on your home screen
+An app as above with name **iLib** will shown on your home screen.
 
 
 ![](assets/20230108_182646_Screenshot_2023-01-08-17-20-00-32.jpg)
 
 #### **Step 5**:
 
-Open the app, and go to the login section
+Open the app, and go to the login section.
 
 
 ![](assets/20230108_183119_Screenshot_2023-01-08-17-20-11-91.jpg)
@@ -51,21 +51,21 @@ If you don't have an account on iLib, Press on the **Register for a new account*
 
 #### **Step 7**:
 
-Enter the proper details as required and upload a passport size photo or selfie of your own wearing the college uniform. **The photo size must be less than *350* kb**. The details will be checked before making you a premium user, so enter it carefully
+Enter the proper details as required and upload a passport size photo or selfie of your own wearing the college uniform. **The photo size must be less than *350* kb**. The details will be checked before making you a premium user, so enter it carefully.
 
 
 ![](assets/20230108_184206_Screenshot_2023-01-08-18-41-39-78.jpg)
 
 #### **Step 8**:
 
-You will recieve an e-mail with a verification link. Verify your email with it.
+You will receive an e-mail with a verification link. Verify your email with it.
 
 
 ![](assets/20230108_194616_Screenshot_2023-01-08-17-24-11-49.jpg)
 
 #### **Step 9**:
 
-After clicking the mailed link, your verfifcation status will be updated. Now logout from the application and login again.
+After clicking the link in the e-mail, your verfifcation status will be updated.
 
 
 ![](assets/20230108_202045_Screenshot_2023-01-08-17-25-09-27.jpg)
@@ -79,12 +79,12 @@ Logout from the application and login once again.
 
 #### **Step 11:**
 
-Go to library admin and ask him to update your premium status so that you will be able to request for books
+Go to library admin and ask him to update your premium status so that you will be able to request for books.
 
 
 ![](assets/20230108_202754_IMG_20230108_174107.jpg)
 
-After updating the premium status, your 'Account Details' window will look like
+After updating the premium status, your 'Account Details' window will look like this.
 
 
 ![](assets/20230108_203211_IMG_20230108_174140.jpg)
@@ -112,12 +112,12 @@ Asks the developer to make yourself admin.
 
 #### **Making student premium:**
 
-Go to student details section
+Go to student details section.
 
 
 ![](assets/20230108_210549_qwerty.jpg)
 
-Click on the **Get details by email** button and enter the student email and search
+Click on the **Get details by email** button and enter the student email and search.
 
 
 ![](assets/20230108_210823_Screenshot_2023-01-08-17-34-22-68_e4424258c8b8649f6e67d283a50a2cbc.jpg)
@@ -143,7 +143,7 @@ Click on the  **Load Return Request** button and approve return request. **If th
 
 #### **Add a new book**
 
-Click on the **Add a new book** button from menu and enter the details of the book, make sure each book has an ***unique*** ISBN number.
+Click on the **Add a new book** button from menu and enter the details of the book, make sure each book has a ***unique*** ISBN number.
 
 
 ![](assets/20230108_211730_Screenshot_2023-01-08-17-32-34-09_e4424258c8b8649f6e67d283a50a2cbc.jpg)
@@ -167,7 +167,7 @@ You can upload a book's pdf but then make sure the pdf is less than 1 MB in size
 
 > Ubuntu, Debian
 
-First you need to download snap package manager on the machine
+First you need to download snap package manager on the machine.
 
 ```
 $ sudo apt update
@@ -176,7 +176,7 @@ $ sudo apt install snapd
 
 [Download the file](https://github.com/Bijit-Mondal/iLib-Documentation/releases)
 
-Go to the downloaded directory and open terminal
+Go to the downloaded directory and open terminal.
 
 ```
 $ sudo snap install iLib_0.1.0_amd64.snap --dangerous
@@ -200,7 +200,7 @@ $ yay -Sy snapd
 ```
 
 [Download the file](https://github.com/Bijit-Mondal/iLib-Documentation/releases)
-Go to the downloaded directory and open terminal
+Go to the downloaded directory and open terminal.
 
 ```
 $ sudo snap install iLib_0.1.0_amd64.snap --dangerous
