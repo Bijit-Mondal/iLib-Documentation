@@ -9,7 +9,7 @@
 
 #### **Step 1**:
 
-[Click Here](https://ilib.website) Or scan the below image with your mobile device with active internet connection
+[Click Here](https://ilib.website) Or scan the QR code below with your mobile device with an active internet connection
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_180721_QR_Code.png)
@@ -23,42 +23,42 @@ Click on the three dots on your browser and press **Install app** button on the 
 
 #### **Step 3**:
 
-Click on the **Install** button and wait for it to finish
+Click on the **Install** button and wait for the installation process to finish
 
 
 ![](https://cdn.jsdelivr.net/gh/Bijit-Mondal/iLib-Documentation@main/assets/20230108_182420_Screenshot_2023-01-08-17-19-22-94.jpg)
 
 #### **Step 4**:
 
-An app as above with name **iLib** will shown on home wallpaper
+An app as above with name **iLib** will shown on your home screen
 
 
 ![](assets/20230108_182646_Screenshot_2023-01-08-17-20-00-32.jpg)
 
 #### **Step 5**:
 
-Open the app, and go to login section
+Open the app, and go to the login section
 
 
 ![](assets/20230108_183119_Screenshot_2023-01-08-17-20-11-91.jpg)
 
 #### **Step 6**:
 
-If you don't have account on iLib, Press on the **Register for a new account** button.
+If you don't have an account on iLib, Press on the **Register for a new account** button.
 
 
 ![](assets/20230108_183505_Screenshot_2023-01-08-17-20-18-91.jpg)
 
 #### **Step 7**:
 
-Enter the proper details as reqquired and upload a passport size photo or selfie of your own wearing college uniform. **The photo size must be less than *350* kb**. The details will be check before making you a premium user, so enter it carefully
+Enter the proper details as required and upload a passport size photo or selfie of your own wearing the college uniform. **The photo size must be less than *350* kb**. The details will be checked before making you a premium user, so enter it carefully
 
 
 ![](assets/20230108_184206_Screenshot_2023-01-08-18-41-39-78.jpg)
 
 #### **Step 8**:
 
-Verify You email, you will receieve an confirmation mail
+You will recieve an e-mail with a verification link. Verify your email with it.
 
 
 ![](assets/20230108_194616_Screenshot_2023-01-08-17-24-11-49.jpg)
@@ -79,26 +79,26 @@ Logout from the application and login once again.
 
 #### **Step 11:**
 
-Go to library admin and asks to update your premium status so that you get enable to request for book
+Go to library admin and ask him to update your premium status so that you will be able to request for books
 
 
 ![](assets/20230108_202754_IMG_20230108_174107.jpg)
 
-After updating the premium status your information window will look like
+After updating the premium status, your 'Account Details' window will look like
 
 
 ![](assets/20230108_203211_IMG_20230108_174140.jpg)
 
 #### **Step 12:**
 
-Search and request for a book in the request window. You can borrow maximum 2 books at a time.The books should be returned between 15 days.
+Search and request for a book in the request window. You can borrow maximum of 2 books at a time. The books should be returned between 15 days.
 
 
 ![](assets/20230108_203327_Screenshot_2023-01-08-17-28-51-29.jpg)
 
 #### **Step 13:**
 
-For Returning a Book you must go to library and asks admin to approve your return request.
+For Returning a book you must go to library and ask admin to approve your return request.
 
 ### For Mobile User (Admin)
 
@@ -112,7 +112,7 @@ Asks the developer to make yourself admin.
 
 #### **Making student premium:**
 
-Go to students details section
+Go to student details section
 
 
 ![](assets/20230108_210549_qwerty.jpg)
@@ -129,35 +129,35 @@ Approve as premium user or delete the user.
 
 #### **Approve Pending Request**
 
-Click on the **Load Pending Request** button. and approve or decline students borrow request.
+Click on the **Load Pending Request** button and approve or decline student's borrow request.
 
 
 ![](assets/20230108_211231_Screenshot_2023-01-08-17-35-50-54_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
 #### **Approve Return Request**
 
-Click on the  **Load Return Request** button. and approve return request. **If the user is late to return the book,fine charges button will glow**
+Click on the  **Load Return Request** button and approve return request. **If the user is late to return the book, fine charges button will glow**
 
 
 ![](assets/20230108_211538_Screenshot_2023-01-08-17-36-37-99_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
 #### **Add a new book**
 
-Click on the **Add a new book** button from menu and enter the details of the book, make sure each book has ***unique*** ISBN number.
+Click on the **Add a new book** button from menu and enter the details of the book, make sure each book has an ***unique*** ISBN number.
 
 
 ![](assets/20230108_211730_Screenshot_2023-01-08-17-32-34-09_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
 #### **The image URL part**
 
-Search for the book front page image online and paste the link on the input area.
+Search for the book's front page image online and paste the link in the input area.
 
 
 ![](assets/20230108_211925_Screenshot_2023-01-08-17-33-29-97_e4424258c8b8649f6e67d283a50a2cbc.jpg)
 
 #### **Upload book's pdf**
 
-You can upload books pdf but then make sure the pdf is less than 1 MB in size.
+You can upload a book's pdf but then make sure the pdf is less than 1 MB in size.
 
 > Enter the details of book properly for no furthur issue. And once again make sure each book has unique ISBN number and don't repeat a book twice.
 
@@ -218,4 +218,4 @@ Other steps are same as above.
 
 #### ~~Step 1~~:
 
-Sorry windows user I haven't develope for windows and neither I want to do. If you really want desktop like experience on windows download the Web App
+Sorry windows users, I haven't developed iLib for windows, nor do I want to. If you really want desktop like experience on windows download the Web App :)
